@@ -41,6 +41,12 @@ collections:
     output: true
     permalink: /my_collection/:title
 
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+      
 # SEO settings
 title_separator: "-"
 title_prefix: "DFIR.CAT"
