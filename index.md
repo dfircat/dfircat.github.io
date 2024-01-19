@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Welcome to DFIR.CAT
+permalink: /
 ---
 
 ![DFIRCAT Logo](assets/img/dfircat-logo.png)
@@ -8,10 +9,6 @@ title: Welcome to DFIR.CAT
 # Welcome 
 
 This is the main landing page for DFIR.CAT.
-
-## About Me
-
-I am a passionate web developer who loves to create static websites with Jekyll.
 
 ## Recent Posts
 
