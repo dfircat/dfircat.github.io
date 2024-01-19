@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Welcome to My Website
+title: Welcome to DFIR.CAT
 ---
 
-# Welcome to My Website
+# Welcome 
 
-This is the main landing page for my website. You can customize this page by editing the `index.md` file.
+This is the main landing page for DFIR.CAT.
 
 ## About Me
 
