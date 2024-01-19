@@ -3,7 +3,7 @@ layout: default
 title: Welcome to DFIR.CAT
 ---
 
-![DFIRCAT Logo][{{site.url}}/assets/img/dfircat-logo.png]
+![DFIRCAT Logo](dfircat-logo.png)
 
 # Welcome 
 
