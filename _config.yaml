@@ -1,8 +1,8 @@
 # Site settings
-title: My Jekyll Website
-description: A sample Jekyll website
+title: DFIR.CAT
+description: Digital Forensics and Incident Response
 baseurl: "" # Set to your project's subpath, if necessary (e.g., "/my-website")
-url: "https://www.example.com" # The base URL for your site
+url: "https://dfir.cat" # The base URL for your site
 
 # Build settings
 markdown: kramdown
@@ -43,4 +43,4 @@ collections:
 
 # SEO settings
 title_separator: "-"
-title_prefix: "My Jekyll Website"
+title_prefix: "DFIR.CAT"
