@@ -1,1 +1,46 @@
+# Site settings
+title: My Jekyll Website
+description: A sample Jekyll website
+baseurl: "" # Set to your project's subpath, if necessary (e.g., "/my-website")
+url: "https://www.example.com" # The base URL for your site
 
+# Build settings
+markdown: kramdown
+theme: minima # You can change this to a different theme or specify your own
+gems:
+  - jekyll-seo-tag
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
+
+# Permalinks
+permalink: pretty # Use pretty URLs (e.g., /my-page/ instead of /my-page.html)
+
+# Exclude files and folders from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - _site
+  - .git
+
+# Pagination
+paginate: 5 # Number of posts per page
+
+# Date format
+date_format: "%Y-%m-%d"
+
+# Custom collections
+collections:
+  my_collection:
+    output: true
+    permalink: /my_collection/:title
+
+# SEO settings
+title_separator: "-"
+title_prefix: "My Jekyll Website"
